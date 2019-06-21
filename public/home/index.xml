@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on Jerry Shannon</title>
     <link>/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on Jerry Shannon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -22,12 +22,12 @@
     </item>
     
     <item>
-      <title>Academic</title>
+      <title></title>
       <link>/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,8 +36,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Biography I&amp;rsquo;m a geographer studying how to make urban neighborhoods and food systems healthier and more equitable. My broad interests are in urban development and inequality, geographic information systems, political geography, and place effects on health. More specifically, my research focuses on the role of maps and spatial analysis in shaping our understanding of hunger, housing, poverty, and neighborhood development and enabling community organization around these issues.
+I am an assistant professor in the Department of Geography and the Department of Financial Planning, Housing, and Consumer Economics at the University of Georgia.</description>
     </item>
     
     <item>

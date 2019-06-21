@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Community Geography",
+    "Food Systems and Affordable Housing",
+    "Mixed Methods Research & GIS"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Geography"
+  institution = "University of Minnesota"
+  year = 2013
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MAT in Secondary English Education"
+  institution = "University of Iowa"
+  year = 1999
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in English"
+  institution = "University of Iowa"
+  year = 1997
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a geographer studying how to make urban neighborhoods and food systems healthier and more equitable. My broad interests are in urban development and inequality, geographic information systems, political geography, and place effects on health. More specifically, my research focuses on the role of maps and spatial analysis in shaping our understanding of hunger, housing, poverty, and neighborhood development and enabling community organization around these issues.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am an assistant professor in the Department of Geography and the Department of Financial Planning, Housing, and Consumer Economics at the University of Georgia. I direct the Community Mapping Lab in the Department of Geography and am an assistant director of the Housing and Demographics Research Center on campus.
+
+You can find more information on my specific research projects on my research page or browse publications. I welcome interest from graduate students interested in studying disparities in access to food and housing, participatory and engaged research, open source GIS tools, and community development.
